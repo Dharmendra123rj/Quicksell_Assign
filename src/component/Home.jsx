@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from "react-router-dom";
 import './Home.css'
 import { GiNetworkBars } from "react-icons/gi"
 import { AiOutlinePlus } from "react-icons/ai"
